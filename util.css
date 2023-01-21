@@ -1,0 +1,23 @@
+.text-center{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600 bold;
+    text-transform: uppercase;
+    font-family:'Courier New', Courier, monospace;
+}
+.bg-red{
+    background-color: blueviolet;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
