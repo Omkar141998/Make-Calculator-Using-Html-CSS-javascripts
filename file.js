@@ -1,5 +1,5 @@
 //to do make m+, M- and mc Funtional
-
+//do all buttons working
 let string = "";
 let buttons = document.querySelectorAll('.button');
 Array.from(buttons).forEach((button)=>{
